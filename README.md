@@ -15,5 +15,4 @@ Voici les points abordés :
 
 1. Créer une première classe
 2. Afficher un objet avec `__str__`
-
-
+3. Utiliser getter et setter avec des attributs d'un objet
