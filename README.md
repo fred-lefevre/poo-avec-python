@@ -17,3 +17,5 @@ Voici les points abordés :
 2. Afficher un objet avec `__str__`
 3. Utiliser getter et setter avec des attributs d'un objet
 4. Cacher des attributs avec la visibilité privée
+5. Créer des propriétés avec le décorateur @property
+
