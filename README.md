@@ -14,6 +14,6 @@ Dit autrement, pour commencer un épisode, on utilise les fichiers de l'épisode
 Voici les points abordés :
 
 1. Créer une première classe
-
+2. Afficher un objet avec `__str__`
 
 
