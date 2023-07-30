@@ -6,6 +6,8 @@
 
 - Tout le code est fourni dans le présent dépôt `GitHub` et toutes les explications associées sont fournies dans `YouTube`.
 
+- Le fichier `POO-en-Python.pdf` contient les URL des vidéos de chaque épisode.
+
 ## 👀 Les épisodes
 Chaque épisode concerne un point spécifique de la POO.<br>
 Les fichiers obtenus à la fin de l'épisode numéro N sont contenus dans le dossier `poo-avec-python-episode-N`.<br>
