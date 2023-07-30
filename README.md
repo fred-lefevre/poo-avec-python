@@ -6,6 +6,8 @@
 
 - Tout le code est fourni dans le présent dépôt `GitHub` et toutes les explications associées sont fournies dans `YouTube`.
 
+- L'URL de la playlist des vidéos est : https://www.youtube.com/playlist?list=PLQsTrO2pHmL6_6dlHZ63d4QUpnm-Fp4TX
+
 - Le fichier `POO-en-Python.pdf` contient les URL des vidéos de chaque épisode.
 
 ## 👀 Les épisodes
